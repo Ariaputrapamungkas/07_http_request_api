@@ -1,16 +1,10 @@
-# http_request_api
+Nama : Aria Putra Pamungkas
+Nim  : 2031710132
+Kelas: MI-2F
 
-A new Flutter project.
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/79964056/169195588-be1404df-a8b2-4773-a328-15bfb0aad76c.PNG">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="608" alt="2" src="https://user-images.githubusercontent.com/79964056/169195610-e216ac07-09be-47ea-a1b7-224ba1e38ddf.PNG">
