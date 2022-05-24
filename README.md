@@ -7,4 +7,5 @@ Kelas: MI-2F
 
 
 
+<img width="607" alt="4" src="https://user-images.githubusercontent.com/79964056/169990567-d4bdeed7-8a48-486b-8eb3-a8cd4756de6d.PNG">
 
