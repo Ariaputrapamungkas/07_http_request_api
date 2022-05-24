@@ -3,7 +3,8 @@ Nim  : 2031710132
 Kelas: MI-2F
 
 
+<img width="654" alt="3" src="https://user-images.githubusercontent.com/79964056/169987151-a52674ac-5367-4819-a476-ae56b2c95bf1.PNG">
 
 
 
-<img width="608" alt="2" src="https://user-images.githubusercontent.com/79964056/169195610-e216ac07-09be-47ea-a1b7-224ba1e38ddf.PNG">
+
